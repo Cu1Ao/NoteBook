@@ -61,6 +61,8 @@ git commit命令执行成功后会告诉你，1 file changed：1个文件被改�
 ```
 (base) ☁  (/home/ao/Desktop/PeriodicalReport) [master] ⚡  git remote add origin git@github.com:Cu1Ao/PeriodicalReport.git
 ```
+之后的推送可以省略前两步。
+
 * 第三步，将本地仓库所有的内容推送到远程仓库：
 
 ```
@@ -89,6 +91,6 @@ git rm -rf dir
 
 使用
 ```
-git checkou --
+git checkout --
 ```
 可以恢复至最新版本。
